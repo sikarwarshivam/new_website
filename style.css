@@ -328,7 +328,7 @@ img{
 .logo-track img {
   height: 60px;
   object-fit: contain;
-  filter:invert();
+  filter:invert(100%);
   transition: transform 0.3s ease;
 }
 
